@@ -257,5 +257,3 @@ tongue-api/
 - https://linkedin.com/in/lorenzo-sottile  
 
 ---
-
-Ready for further extensions such as authentication, dashboards, or integration with mobile/web apps.
